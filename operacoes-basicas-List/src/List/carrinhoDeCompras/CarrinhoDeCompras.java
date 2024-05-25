@@ -1,9 +1,9 @@
-package carrinhoDeCompras;
+package List.carrinhoDeCompras;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import list.Tarefa;
+import List.OperacoesBasicas.Tarefa;
 
 public class CarrinhoDeCompras{
     private List<Item> listaItem;
